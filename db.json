@@ -1,0 +1,95 @@
+{
+  "cart": [
+    {
+      "id": 0,
+      "workId": 2,
+      "amount": 1
+    },
+    {
+      "id": 1,
+      "workId": 5,
+      "amount": 3
+    },
+    {
+      "workId": 2,
+      "amount": 1,
+      "id": 2
+    },
+    {
+      "workId": 7,
+      "amount": 1,
+      "id": 3
+    },
+    {
+      "workId": 3,
+      "amount": 1,
+      "id": 4
+    },
+    {
+      "workId": 1,
+      "amount": 1,
+      "id": 5
+    },
+    {
+      "workId": 2,
+      "amount": 1,
+      "id": 6
+    }
+  ],
+  "works": [
+    {
+      "id": 1,
+      "type": "art",
+      "price": 100,
+      "image": "https://pro2-bar-s3-cdn-cf3.myportfolio.com/06eac88b-13a3-414e-9424-776270ff071a/420c8a30-01e4-45fe-96b0-1dfc1987d58d_rw_1200.jpg?h=e76d08d458941acc23def1aac9305559"
+    },
+    {
+      "id": 2,
+      "type": "art",
+      "price": 100,
+      "image": "https://pro2-bar-s3-cdn-cf2.myportfolio.com/06eac88b-13a3-414e-9424-776270ff071a/369d1dc4-b12e-4174-a85d-7cdb9fe0f48d_rw_1200.JPG?h=e9c86b22f4a1d96a2ad0a5e1a1fcda5c"
+    },
+    {
+      "id": 3,
+      "type": "art",
+      "price": 100,
+      "image": "https://pro2-bar-s3-cdn-cf2.myportfolio.com/06eac88b-13a3-414e-9424-776270ff071a/d9c098f9-9165-493f-84bb-5b2349ff6cca_rw_1200.jpg?h=0c91d714e84c057cd55964c9ef9f2688"
+    },
+    {
+      "id": 4,
+      "type": "BlenderArt",
+      "price": 100,
+      "image": "https://pro2-bar-s3-cdn-cf4.myportfolio.com/06eac88b-13a3-414e-9424-776270ff071a/5b265cc2-4279-4ddb-9b82-750be7b3c14d.png?h=a11cea1cb69cb8dfe01d59c1e3a6d9be"
+    },
+    {
+      "id": 5,
+      "type": "BlenderArt",
+      "price": 100,
+      "image": "https://pro2-bar-s3-cdn-cf1.myportfolio.com/06eac88b-13a3-414e-9424-776270ff071a/220926da-438f-4e0a-90c6-59a74c285933_rw_1200.png?h=76237e59ba2f35ec97c252dba75ad243"
+    },
+    {
+      "id": 6,
+      "type": "BlenderArt",
+      "price": 100,
+      "image": "https://pro2-bar-s3-cdn-cf.myportfolio.com/06eac88b-13a3-414e-9424-776270ff071a/ba7c4b5c-81f2-4648-9e90-ba8bd6d18441_rw_1200.jpg?h=01b8a300be16b23c3ffd61127abe7f5f"
+    },
+    {
+      "id": 7,
+      "type": "Photo",
+      "price": 100,
+      "image": "https://pro2-bar-s3-cdn-cf4.myportfolio.com/06eac88b-13a3-414e-9424-776270ff071a/f17128a2-c199-4479-971f-41221d1b3579_rw_1200.jpg?h=baca939fff320c0e2758e56372945c1f"
+    },
+    {
+      "id": 8,
+      "type": "Photo",
+      "price": 100,
+      "image": "https://pro2-bar-s3-cdn-cf3.myportfolio.com/06eac88b-13a3-414e-9424-776270ff071a/e88164be-40fe-4a9c-8172-0436a116b6a6_rw_1200.JPG?h=50e0cbf2ea7d93b43e5282cc97f36970"
+    },
+    {
+      "id": 9,
+      "type": "Photo",
+      "price": 100,
+      "image": "https://pro2-bar-s3-cdn-cf6.myportfolio.com/06eac88b-13a3-414e-9424-776270ff071a/0cc4df93-0021-430d-95c8-5251d68aa317_rw_1200.JPG?h=318d82c1d00fdb276d376950d8b5e8be"
+    }
+  ]
+}
